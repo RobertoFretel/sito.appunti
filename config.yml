@@ -1,0 +1,34 @@
+baseURL: 'http://localhost:1313/'
+languageCode: 'it-IT'
+title: 'Sito Appunti'
+theme: 'hugo-papermod'
+
+menu:
+  main:
+    - identifier: Github - RobertoFretel
+      name: Github
+      url: 'https://github.com/RobertoFretel'
+      weight: 30
+
+params:
+  profileMode:
+    enabled: true
+    title: Sito Appunti
+    subtitle: C'è anche altro ovviamente..
+    imageUrl: /sfondo.png
+    imageWidth: 151
+    imageHeight: 151
+    imageTitle: la mia skin
+    buttons:
+      - name: Appunti
+        url: posts
+      - name: Materie
+        url: tags
+  
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/9ksewk"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/RobertoFretel"
