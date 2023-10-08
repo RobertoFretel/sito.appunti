@@ -1,0 +1,8 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'it-IT'
+title = 'Sito Appunti'
+theme = 'hugo-papermod'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
