@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Storia on Sito Appunti</title>
+    <link>https://sito-appunti.netlify.app/tags/storia/</link>
+    <description>Recent content in Storia on Sito Appunti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sito-appunti.netlify.app/tags/storia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Risorgimento Italiano</title>
+      <link>https://sito-appunti.netlify.app/posts/storia/risorgimento-italiano/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sito-appunti.netlify.app/posts/storia/risorgimento-italiano/</guid>
+      <description>Dopo il Congresso di Vienna (1814 - 1815) l&amp;rsquo;Italia era tornata ad essere divisa in molti stati sottomessi nella maggior parte dall&amp;rsquo;Impero Austriaco. Solo il Regno di Sardegna era indipendente.
+Con i Congresso di Vienna si cercò di tornare allo stato precedente alla rivoluzione francese, ma ciò era impossibile, infatti in tutta Europa si formarono diverse organizzazioni segrete, come la Carboneria che chiedeva una costituzione dai principi illuministi di libertà e uguaglianza.</description>
+    </item>
+    
+  </channel>
+</rss>

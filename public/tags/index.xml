@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Materie on Sito Appunti</title>
+    <link>https://sito-appunti.netlify.app/tags/</link>
+    <description>Recent content in Materie on Sito Appunti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sun, 08 Oct 2023 12:46:54 +0200</lastBuildDate><atom:link href="https://sito-appunti.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Letteratura</title>
+      <link>https://sito-appunti.netlify.app/tags/letteratura/</link>
+      <pubDate>Sun, 08 Oct 2023 12:46:54 +0200</pubDate>
+      
+      <guid>https://sito-appunti.netlify.app/tags/letteratura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latino</title>
+      <link>https://sito-appunti.netlify.app/tags/latino/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sito-appunti.netlify.app/tags/latino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storia</title>
+      <link>https://sito-appunti.netlify.app/tags/storia/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sito-appunti.netlify.app/tags/storia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

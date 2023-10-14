@@ -5,14 +5,10 @@ draft: false
 tags:
   - Latino
 ---
+- Salto la vita. Nasce a Cordova forse nel 4 a.C.
+- 63 d.C. **SECESSUS**: si ritira dalla vita politica per dedicarsi all'***otsium***.
+- 65 d.C. muore già sai perché.
 
-## I DIALOGI
-Non sono veri e propri dialoghi, bensì opere in cui l'autore (parlando in prima persona), __si rivolge a un destinatario affrontando temi di filosofia morale__. Ha come scopo quello di liberare i lettori, dagli errori che li opprimono, invitandoli a cercare la virtù come fonte di felicità.
+## <span style="text-decoration:underline">I DIALOGI</span>
 
-#### DIALOGHI DI GENERE CONSOLATORIO
-- __Consolatio ad Martiam__ (Prima dell'esilio - 37 d.C.)
-> Si rivolge a Marzia (sofferente da 3 anni per la morte del figlio Metilio), e si inserisce nella tradizione della ___consolazione filosofica___, riprendendo il repertorio topico degli argomenti per dimostrare che la morte non è una cosa negativa, anzi un passaggio ad una vita migliore
-
-- __Consolatio ad Helviam Matrem__ (Scritta nel 42 - 43 d.C.)
-> Si rivolge alla madre dell'autore triste per la lontananza del figlio, utilizzando temi caratteristici della tradizione filosofica greca per quanto riguarda l'esilio. Nonostante le apparenze, l'esilio non è un male, in quanto rappresenta solo un mutamento di luogo, ma ciò ___non gli potrà mai levare l'unico vero bene: la virtù___ (Del resto per il cosmopolitismo stoico, la patria del sapiente era tutto il mondo).
-
+I Dialogi di Seneca non sono dei veri e propri dialoghi (come quelli di Platone o CIcerone), ma parla in prima persona, rivolgendosi a un destinatario e affrontando temi di filosofia morale

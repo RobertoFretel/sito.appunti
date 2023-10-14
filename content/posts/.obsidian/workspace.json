@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Letteratura/Alessandro Manzoni.md",
+                "file": "Latino/Lucio Anneo Seneca.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Letteratura/Alessandro Manzoni.md",
+                "file": "Latino/Lucio Anneo Seneca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Letteratura/Alessandro Manzoni.md",
+                "file": "Latino/Lucio Anneo Seneca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Letteratura/Alessandro Manzoni.md"
+                "file": "Latino/Lucio Anneo Seneca.md"
               }
             }
           }
@@ -148,9 +148,8 @@
   },
   "active": "c5c93b74380e6093",
   "lastOpenFiles": [
+    "Letteratura/Alessandro Manzoni.md",
     "Letteratura/Romanticismo  Italiano.md",
-    "Letteratura/Alessandro Manzoni.md",
-    "Letteratura/Alessandro Manzoni.md",
     "Manoscritto.md",
     "Latino/Lucio Anneo Seneca.md",
     "Manoscritto"
