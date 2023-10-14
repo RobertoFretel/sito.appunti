@@ -23,7 +23,11 @@ Abbiamo 10 **{{<  u "dialogi" >}}** scritti in 4 libri: 3 per il De Ira, 1 per g
 
 ### DIALOGHI DEL GENERE CONSOLATORIO
 
-**{{< u "Consolatio ad Marciam" >}}**: figlia del grande storico Cremuzio Cordo
+**43-44 d.C. {{< u "Consolatio ad Marciam" >}}**: figlia del grande storico Cremuzio Cordo.
 > Seneca si proponeva di consolare Marcia dalla perdita del figlio Metilio attraverso quel repertorio topico di tradizione di vari filosofi, dimostrando che la morte {{< u "non è un male" >}}.
 > Morte intesa come fine di tutto (senza sofferenza) e come passaggio ad una vita migliore.
 > Infine Seneca termina con un elogio al figlio, immaginando che nel cielo lo stia aspettando suo nonno nella sede delle anime che sono state grandi.
+
+**42-43 d.C. {{< u "Consolatio ad Helviam Matrem" >}}**: sua madre triste per la sua lontananza.
+> Seneca si propone di consolare sua madre Elvia che soffre per la sua condanna in esilio a Corsica, e lo fa dimostrando che la lontananza non è un male, ma un semplice mutamento di luogo, che {{< u "non può togliergli la virtù" >}}.
+> Il sapiente ha come patria tutto il mondo (cosmopolitismo stoico).
