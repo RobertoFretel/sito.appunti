@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "499ee6d09a7ec9a3",
+        "id": "47db6dd8dfffe640",
         "type": "tabs",
         "children": [
           {
-            "id": "c5c93b74380e6093",
+            "id": "2cd9d8904e1ca8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5c93b74380e6093",
+  "active": "2cd9d8904e1ca8e9",
   "lastOpenFiles": [
+    "_index.md",
+    "Latino/Lucio Anneo Seneca.md",
     "Letteratura/Alessandro Manzoni.md",
     "Letteratura/Romanticismo  Italiano.md",
     "Manoscritto.md",
-    "Latino/Lucio Anneo Seneca.md",
     "Manoscritto"
   ]
 }
