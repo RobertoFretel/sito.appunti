@@ -11,4 +11,8 @@ tags:
 
 ## <span style="text-decoration:underline">I DIALOGI</span>
 
-I Dialogi di Seneca non sono dei veri e propri dialoghi (come quelli di Platone o CIcerone), ma parla in prima persona, rivolgendosi a un destinatario e affrontando temi di filosofia morale
+I Dialogi di Seneca non sono dei veri e propri dialoghi (come quelli di Platone o CIcerone), ma parla in prima persona, rivolgendosi a un destinatario e affrontando temi di filosofia morale.
+
+- **Seneca** -> <span style="text-decoration:underline">STOICO</span>: si proponeva di liberare i lettori dagli errori che li opprimevano
+	-> e di fargli ricercare la <span style="text-decoration:underline;"><b>virtus</b></span> - fonte di felicità
+	
