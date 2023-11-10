@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47db6dd8dfffe640",
+        "id": "ab1fa2a51f283516",
         "type": "tabs",
         "children": [
           {
-            "id": "8d805e085414dd9a",
+            "id": "eafe8e7ec4232b8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Hegel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b385debfdc59f6d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latino/Lucio Anneo Seneca.md",
+                "file": "Storia/I governi della sinistra storica.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ca3009116d71cc53",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Hegel.md",
+                "file": "Storia/I governi della sinistra storica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Hegel.md",
+                "file": "Storia/I governi della sinistra storica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Hegel.md"
+                "file": "Storia/I governi della sinistra storica.md"
               }
             }
           }
@@ -158,8 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d805e085414dd9a",
+  "active": "eafe8e7ec4232b8e",
   "lastOpenFiles": [
+    "I Governi della sinistra storica.md",
+    "Storia/I governi della sinistra storica.md",
+    "storia/sinistra.md",
+    "storia",
     "Latino/Lucio Anneo Seneca.md",
     "Filosofia/Hegel.md",
     "_index.md",
