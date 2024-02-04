@@ -1,0 +1,32 @@
+baseURL: 'https://sito-appunti.netlify.app/'
+languageCode: 'it-IT'
+title: 'Sito Appunti'
+theme: 'PaperMod'
+
+menu:
+  main:
+    - identifier: Github - RobertoFretel
+      name: Github
+      url: 'https://github.com/RobertoFretel'
+      weight: 30
+
+params:
+  profileMode:
+    enabled: true
+    title: Sito di appunti e post interessanti
+    subtitle: C'è anche altro ovviamente! (anche se per ora c'è ben poco..)
+    imageUrl: /sfondo.png
+    imageWidth: 151
+    imageHeight: 151
+    imageTitle: la mia skin
+    buttons:
+      - name: Appunti
+        url: posts
+      - name: Argomenti
+        url: tags
+  
+  socialIcons:
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/RobertoFretel"

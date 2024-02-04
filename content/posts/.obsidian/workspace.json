@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "db9c28abf264960e",
+    "type": "split",
+    "children": [
+      {
+        "id": "df0fb00a393516bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7512d34eb80a75a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rivoluzione russa e stalinismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feda515d1e6c3d24",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aabfc61b5f6da92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c154fe6059f5320",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b03712aad97ab350",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e27c38b22b8b7f51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4302da789f48d040",
+    "type": "split",
+    "children": [
+      {
+        "id": "4048fa81e2d7f174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c889e80ec42bef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rivoluzione russa e stalinismo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aad05f48b3bca34c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rivoluzione russa e stalinismo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "409195a1a25ed644",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "153c2b8b66739ba0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rivoluzione russa e stalinismo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7512d34eb80a75a1",
+  "lastOpenFiles": [
+    "Rivoluzione russa e stalinismo.md",
+    "Periodo del dopo guerra (I WW).md",
+    "Marco Valerio Marxiale.md",
+    "Impressionismo.md",
+    "Pasted image 20240201082150.png",
+    "Naturalismo francese.md",
+    "Decadentismo.md",
+    "Giovanni Verga.md",
+    "Karl Marx.md",
+    "Ernest Miller Homingway.md",
+    "Pasted image 20240124103340.png",
+    "Pasted image 20240124104224.png",
+    "Pasted image 20240124104104.png",
+    "Pasted image 20240124104027.png",
+    "Pasted image 20240124103918.png",
+    "Pasted image 20240124103523.png",
+    "Pasted image 20240124101740.png",
+    "_index.md",
+    "Bun - 1.md",
+    "Divina Commedia/Paradiso - 0.md",
+    "Divina Commedia/Paradiso - 1.md",
+    "Divina Commedia",
+    "sfondo.jpg.md"
+  ]
+}
